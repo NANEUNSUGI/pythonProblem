@@ -14,5 +14,5 @@ while True:
     elif user < com:
         print('업')
     else:
-        print('정답입니다.')
+        print('정답입니다.!!!!')
         break
